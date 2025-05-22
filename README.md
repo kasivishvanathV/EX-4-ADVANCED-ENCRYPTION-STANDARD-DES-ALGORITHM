@@ -41,7 +41,7 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT:
+## OUTPUT:
 ![Screenshot 2025-05-22 112222](https://github.com/user-attachments/assets/99cdb588-b196-41f0-a97f-053be8366385)
 
 ## RESULT: 
